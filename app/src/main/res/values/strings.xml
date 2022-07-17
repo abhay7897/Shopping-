@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Shopping App</string>
+    <string name="infinity_mini_speaker">Infinity mini speaker</string>
+    <string name="todo">TODO</string>
+    <string name="todo0">todo</string>
+    <string name="my_profile">My Profile</string>
+    <string name="textview">TextView</string>
+</resources>
